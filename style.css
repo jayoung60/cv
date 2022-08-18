@@ -1,0 +1,23 @@
+img {
+  border: solid;
+  border-radius: 50%;
+  border-color: #E05D5D;
+  width: 150px;
+}
+body {
+  background-color: #FFF8E5;
+}
+hr {
+  background-color: #FFB344;
+  border-style: none;
+  height: 2px;
+}
+a {
+  color: #E05D5D;
+}
+h1, h2, h3, thead, label {
+  color: #00A19D;
+}
+div {
+  background-color: #FFE8D5;
+}
